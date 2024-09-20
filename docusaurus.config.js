@@ -17,12 +17,12 @@ const config = {
   url: 'https://livezy-doc.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/website/',
+  baseUrl: '/livezy/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'livezy-doc', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  projectName: 'livezy', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
