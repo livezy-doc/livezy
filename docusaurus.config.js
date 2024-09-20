@@ -11,6 +11,7 @@ const config = {
   title: 'LivEzy',
   tagline: '',
   favicon: 'img/livesy-logo.ico',
+  
 
   // Set the production url of your site here
   url: 'https://livezy-doc.github.io',
